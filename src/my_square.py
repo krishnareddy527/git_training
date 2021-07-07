@@ -5,6 +5,9 @@ def my_square(x):
 	return x**2
 
 def my_square2(y):
+	"""takes a value and returns the squared value.
+	uses the * operator.
+	"""
 	return y*y
 
 print(my_square(42))
